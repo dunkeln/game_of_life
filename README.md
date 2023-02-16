@@ -10,9 +10,9 @@ PRs are welcome
 
 |   controls   |      description           |
 |--------------|----------------------------|
-|   <SPC>      |  pause/play                |
+|   \<SPC\>      |  pause/play                |
 |     .        |    change theme            |
 |     c        |   clear the board          |
 |     r        |  reset board               |
-|<left-click>  | make alive multiple cells  |
-|<right-click> | toggle state of one cell   |
+|\<left-click\>  | make alive multiple cells  |
+|\<right-click\> | toggle state of one cell   |
