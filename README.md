@@ -15,7 +15,7 @@ This version of the game is built with just-javascript, no **blazingly-fast** fr
 Thanks to the late John Conway for this discovery of his (amongst a lot of other great works of his).
 PRs are always welcome.
 
-try it out [🔗](https://game-of-life-peach-zeta.vercel.app/)
+try it out [🔗](https://game-of-life-prettier.vercel.app/)
 
 ### Instructions
 
