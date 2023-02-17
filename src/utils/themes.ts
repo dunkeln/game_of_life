@@ -45,13 +45,13 @@ fruityTheme.set('nowdead', '#4f000b');
 
 
 
-export const standardTheme = new Map();
-standardTheme.set('stillalive', '#f4d58d');
-standardTheme.set('goinalive', '#f4d58d');
-standardTheme.set('nowalive', '#f4d58d');
-standardTheme.set('stilldead', '#e9ecef');
-standardTheme.set('goindead', '#e9ecef');
-standardTheme.set('nowdead', '#e9ecef');
+export const crystalTheme = new Map();
+crystalTheme.set('stillalive', '#06d6a0');
+crystalTheme.set('goinalive', '#81b29a');
+crystalTheme.set('nowalive', '#2d6a4f');
+crystalTheme.set('stilldead', '#111');
+crystalTheme.set('goindead', '#111');
+crystalTheme.set('nowdead', 'black');
 
 export const standard2Theme = new Map();
 standard2Theme.set('stillalive', 'black');

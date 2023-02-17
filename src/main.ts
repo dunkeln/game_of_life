@@ -1,6 +1,6 @@
 import './style.css'
 import hashimeTheme, {
-        fruityTheme, standardTheme, deepSeaTheme,
+        fruityTheme, crystalTheme, deepSeaTheme,
         solarflareTheme, heatmapTheme, standard2Theme
     } from './utils/themes';
 
@@ -13,7 +13,7 @@ const ctx = canvas!.getContext('2d');
 
 const SIZE = 6;
 const themes = [
-    fruityTheme, solarflareTheme, standardTheme,
+    fruityTheme, solarflareTheme, crystalTheme,
     standard2Theme, deepSeaTheme, heatmapTheme, hashimeTheme
 ];
 let theme = hashimeTheme;
