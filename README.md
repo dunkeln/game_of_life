@@ -3,6 +3,12 @@
 
 ## The nth project on Conway's Game of Life
 
+
+
+https://user-images.githubusercontent.com/46231179/219652762-43aa0bd7-e9eb-444d-8ded-4bc8968dae48.mov
+
+
+
 One of the prettier implementations of the game of life than others found on the web.
 This version of the game is built with just-javascript, no **blazingly-fast** frameworks were used.
 
